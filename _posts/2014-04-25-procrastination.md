@@ -5,7 +5,6 @@ date:   2014-04-25 10:18:00
 categories: life-hack procrastination podcasts psychology
 permalink: procrastination
 ---
-
 Doing the dishes is annoying and gross and boring and I can't get enough of it!
 
 Dishes used to pile up in our sink. Laundry used to pile up in the hamper. Not anymore, and it's all because of some very simple self-brain<s>washing</s>-hacking. I think I've turned my procrastination against itself.
