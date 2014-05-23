@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Self-hack: enjoying doing the dishes
+title:  "Self-hack: enjoying doing the dishes"
 date:   2014-04-25 10:18:00
 categories: life-hack procrastination podcasts psychology
 permalink: procrastination
