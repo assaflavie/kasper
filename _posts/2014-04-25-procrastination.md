@@ -4,7 +4,7 @@ title:  "Self-hack: enjoying doing the dishes"
 date:   2014-04-25 10:18:00
 categories: life-hack procrastination podcasts psychology
 permalink: procrastination
-excerpt: 
+excerpt: ""
 ---
 
 Doing the dishes is annoying and gross and boring and I can't get enough of it!
