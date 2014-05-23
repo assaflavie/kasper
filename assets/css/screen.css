@@ -779,6 +779,12 @@ margin on the iframe, cause it breaks stuff. */
     top: -33px;
 }
 
+section.voting {
+     margin: 0px auto;
+     width: 100%;
+     text-align: center;
+}
+
 
 /* ==========================================================================
    9. Media Queries - Smaller than 900px
