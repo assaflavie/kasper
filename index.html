@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Super Fun Time Happy Blog
-cover: "https://s3.amazonaws.com/gigantt_pub_imgs/2014/05/1400837744.jpg"
+cover: "https://s3.amazonaws.com/gigantt_pub_imgs/2014/05/1400837988.jpg"
 ---
 
 <header class="site-head" {% if page.cover %} style="background-image: url({{ page.cover }})"{% endif %}>
@@ -13,10 +13,6 @@ cover: "https://s3.amazonaws.com/gigantt_pub_imgs/2014/05/1400837744.jpg"
                 </a>
             {% endif %}
             <h1 class="blog-title">{{ site.name }}</h1>
-            <h2 class="blog-description"> 
-                {{ site.description }}. 
-                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %}
-            </h2>
         </div>
     </div>
 </header>
