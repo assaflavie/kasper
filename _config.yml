@@ -8,7 +8,7 @@ paginate: 15
 timezone: Asia/Jerusalem
 
 # Details for the RSS feed generator
-url:            'http://jek.assaflavie.com/'
+url:            'http://jek.assaflavie.com'
 author:         'Assaf Lavie'
 
 
