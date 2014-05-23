@@ -3,7 +3,6 @@ layout: post
 title:  "I Wish I Could Read Wikipedia Like This"
 date:   2014-04-17 10:18:00
 categories: wikipedia design
-excerpt: ""
 permalink: wikipedia
 ---
 I love Wikipedia, but too often the articles are just not that easy to read. It's not that my English isn't good enough. My English good. There is [Simple English](http://simple.wikipedia.org/) Wikipedia, but it doesn't cover as many topics and it's not as thorough.

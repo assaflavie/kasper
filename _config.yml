@@ -10,3 +10,11 @@ timezone: Asia/Jerusalem
 # Details for the RSS feed generator
 url:            'http://jek.assaflavie.com/'
 author:         'Assaf Lavie'
+
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      excerpt: ""
