@@ -18,6 +18,7 @@ defaults:
       path: "" # empty string for all files
     values:
       excerpt_separator: "\n\n"
+      disqus: true
 
 authors:
   asasf:
