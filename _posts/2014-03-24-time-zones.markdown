@@ -4,6 +4,7 @@ title:  "Time Zones Considered Harmful"
 date:   2014-03-24 10:18:00
 categories: time-zones programming
 permalink: time-zones-considered-harmful
+excerpt:
 ---
 
 We don’t need time zones.
