@@ -26,7 +26,7 @@ Done.
 
 When captain Kirk says “Captain’s log, stardate 43125.8" everyone in the galaxy knows exactly when shit happened. Nobody’s asking if it was Klingon time or Romulan savings time. Microsoft did not have to issue a Windows update that triggered a billion reboots just because some Vulcan priests decided that the Pon farr season of blood rage came a little earlier that year. It all just worked.
 
-![Captain's Log](https://s3.amazonaws.com/gigantt_pub_imgs/2014/04/1397593455.jpg)
+![Captain's Log](//cdn.assaflavie.com/2014/04/1397593455.jpg)
 
 This fantastic sci-fi technology is something we could all enjoy right now, if we all just agreed to abandon this time-zone thing.
 

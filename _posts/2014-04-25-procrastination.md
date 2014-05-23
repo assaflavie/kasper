@@ -45,7 +45,7 @@ I hate doing household chores. It's boring, time-consuming and often yucky. I, t
 
 I enjoy listening to *This American Life*, *Hollywood Babble-On* and *Freakonomics Radio*. Not every episode is amazing. Not every Kevin Smith dick joke is hilarious. But every now and then I hit a jackpot and find myself either giggling like an idiot while cleaning the kitchen, or so enthralled by an interview that I simply don't want to stop doing chores. 
 
-![slot machine](https://s3.amazonaws.com/gigantt_pub_imgs/2014/04/1398355232.jpg)
+![slot machine](//cdn.assaflavie.com/2014/04/1398355232.jpg)
 
 ### Reverse procrastination
 
