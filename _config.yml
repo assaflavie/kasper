@@ -1,6 +1,4 @@
 name: Super Fun Happy Time Blog
-description: 
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: kramdown
 highlighter: pygments
