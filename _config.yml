@@ -9,7 +9,6 @@ timezone: Asia/Jerusalem
 
 # Details for the RSS feed generator
 url:            'http://jek.assaflavie.com'
-baseurl:        'http://jek.assaflavie.com'
 author:         'Assaf Lavie'
 
 
@@ -21,11 +20,11 @@ defaults:
       excerpt_separator: "\n\n"
 
 authors:
-  asasf:
+  assaf:
     name: Assaf Lavie
     display_name: Assaf Lavie
     gravatar: 6f27842fcf09e81f768a7ad354938468
     email: me@assaflavie.com
-    web: http://company.com
+    web: http://assaflavie.com
     twitter: assaflavie
     github: assaflavie
