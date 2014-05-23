@@ -1,12 +1,12 @@
 name: Super Fun Happy Time Blog
-description: such blog. very page views. wow
+description: 
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
-markdown: redcarpet
-pygments: true
+markdown: kramdown
+highlighter: pygments
 logo: false
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'http://jek.assaflavie.com/'
+author:         'Assaf Lavie'
