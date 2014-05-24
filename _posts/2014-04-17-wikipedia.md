@@ -15,6 +15,7 @@ Here's what Wikipedia feels like to me:
 > The watt is the rate a source of energy uses or produces one joule during one second, ...
 
 Er... Okay... I think I remember what a joule is [click]:
+
 ### Joule
 
 > A joule is equal to the energy expended (or work done) in applying a force of one newton through a distance of one metre.
