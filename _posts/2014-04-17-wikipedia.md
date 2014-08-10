@@ -11,7 +11,9 @@ I love Wikipedia, but too often the articles are just not that easy to read. It'
 No, what bothers me about reading Wikipedia isn't the language, it's the editorial tone. Wikipedia is [normalized](http://en.wikipedia.org/wiki/Database_normalization).
 
 Here's what Wikipedia feels like to me:
+
 ### Watt
+
 > The watt is the rate a source of energy uses or produces one joule during one second, ...
 
 Er... Okay... I think I remember what a joule is [click]:
