@@ -28,3 +28,7 @@ authors:
     web: http://assaflavie.com
     twitter: assaflavie
     github: assaflavie
+
+gems:
+    - jekyll-paginate
+    - jekyll-feed

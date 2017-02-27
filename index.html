@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Super Fun Time Happy Blog
-cover: "//cdn.assaflavie.com/2014/05/1400837988.jpg"
+cover: "//cdn.assaflavie.com/blog/images/blue-skies.jpg"
 ---
 
 <header class="site-head" {% if page.cover %} style="background-image: url({{ page.cover }})"{% endif %}>
@@ -24,7 +23,7 @@ cover: "//cdn.assaflavie.com/2014/05/1400837988.jpg"
 
     <article class="post">
         <header class="post-header">
-            <span class="post-meta"><time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date_to_string }}</time> {{!tags prefix="on "}}</span>
+            <span class="post-meta"><time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date_to_string }}</time></span>
             <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
         </header>
@@ -46,11 +45,11 @@ cover: "//cdn.assaflavie.com/2014/05/1400837988.jpg"
         {% endif %}
 
         <span class="page-number"> Page {{paginator.page}} of {{paginator.total_pages}} </span>
-        
-        {% if paginator.next_page %} 
+
+        {% if paginator.next_page %}
         <a class="older-posts" href="/page{{ paginator.next_page }}/" title="Next Page">Older Posts &raquo;</a>
-        {% endif %} 
+        {% endif %}
     </nav>
-    
+
 
 </main>
